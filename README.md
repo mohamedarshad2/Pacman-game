@@ -79,7 +79,7 @@ python main.py
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ![Gameplay](assets/screenshots/gameplay-reference.jpg)
 
@@ -92,7 +92,7 @@ python main.py
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 * Game loop design and real-time rendering
 * Handling user input and movement
@@ -102,7 +102,7 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add start menu and pause functionality
 * Add sound effects and background music
@@ -112,6 +112,6 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Mohamed Arshad
