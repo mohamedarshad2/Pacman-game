@@ -1,4 +1,4 @@
-# Pac-Man Game in Python (Pygame)
+# Pac-Man Game using Python (Pygame)
 
 ## Overview
 
